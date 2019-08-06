@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <string>level0</string>
+  <string>level1</string>
+  <string>level2</string>
+  <string>level3</string>
+  <string>level4</string>
+</ArrayOfString>
